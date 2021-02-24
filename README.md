@@ -1,3 +1,5 @@
+// read docs
+
 # Curso: TypeScript para Desenvolvedores C#
 
 Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pessoa tenha conceito de POO realizado através da plataforma Udemy: [Curso: TypeScript para Desenvolvedores C#](https://www.udemy.com/curso-typescript-para-desenvolvedores-c/)
